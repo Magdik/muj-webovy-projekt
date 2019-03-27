@@ -1,10 +1,10 @@
 ---
-title: Home
+title: Cestování po stopách hrdinů knih
 ---
 
-# Hello World! (It works!)
 
-This are the contents of the Hugo start website front page.
+
+
 
 ## Zhotovit seznam destinací po stopách těch nejslavnějších hrdinů literárních děl. Nejprve bych se zaměřila pouze na státy evropy. **
 
