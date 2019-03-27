@@ -6,7 +6,7 @@ title: Cestování po stopách hrdinů knih
 
 
 
-## Zhotovit seznam destinací po stopách těch nejslavnějších hrdinů literárních děl. Nejprve bych se zaměřila pouze na státy evropy. **
+## Zhotovit seznam destinací po stopách těch nejslavnějších hrdinů literárních děl. Nejprve bych se zaměřila pouze na státy Evropy. **
 
 Určení několik cílových skupin a podle toho zvolit dané hrdiny a taktéž desinace.
 
