@@ -14,7 +14,7 @@ Další rozdělení bych zvolila podle ceny zájezdu a taktéž délky daného z
 
 Zajištění programu odpovídající dané tématice. 
 
-(Zdroje: https://www.novinky.cz/cestovani/339893-romany-dana-browna-vedou-cestovatele-po-stopach-svych-pribehu.html
+Zdroje: https://www.novinky.cz/cestovani/339893-romany-dana-browna-vedou-cestovatele-po-stopach-svych-pribehu.html
 https://www.cestovinky.cz/clanek/hrbitovni-turistika-kam-za-slavnymi-mrtvymi
-https://www.geops.cz/zajezdy/anglie/jizni-anglie-cornwall-po-stopach-krale-artuse-2019/)
+https://www.geops.cz/zajezdy/anglie/jizni-anglie-cornwall-po-stopach-krale-artuse-2019/
 
