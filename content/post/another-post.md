@@ -1,9 +1,9 @@
 ---
-title: All albums of The Beatles
-date: 2018-03-15
+title: Low Cost cestování
+date: 2019-04-09
 tags: 
-    - beatles
-    - data
+    - low cost
+    - cestování
 ---
 
 This is just another post. And it illustrates a mighty functionality.
@@ -12,8 +12,10 @@ This is just another post. And it illustrates a mighty functionality.
 
 See how to include data inside your posts:
 
-## Beatles Discography
+## Low Cost Cestování
 
-{{< beatles >}}
+{{< cestování >}}
 
-You can find the data in `data/The_Beatles/discography.yml` and the template used to display it in `layouts/shortcodes/beatles.html`.
+You can find the data in 
+
+<iframe src="https://www.cestovanibezhranic.cz/lowcost-cestovani/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="5000px" width="800px" allowfullscreen></iframe>
