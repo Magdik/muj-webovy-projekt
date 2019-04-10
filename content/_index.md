@@ -18,6 +18,7 @@ To, že začnete cestovat, neznamená, že musíte pustit k vodě svojí kariér
 
 Těmto aspektům ,a ještě mnoha dalším, bych se chtěla v mém semestrálním projektu věnovat a rozvíjet je. Posílat do světa plno nápadů a triků, zkušeností známých i neznámých cestovatelů. To vše pohromadě na jednom virtuálním místě.
 
+
 Zdroje: https://www.huskycz.cz/jak-na-low-cost-batuzkarske-cesty#modal-leaving http://ioutdoor.cz/uzitecne/low-cost-cestovani-opravdu-to-jde/ https://www.cestovanibezhranic.cz/lowcost-cestovani/
 
 
