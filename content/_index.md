@@ -4,8 +4,6 @@ title: Low Cost Cestování
 
 
 
-
-
 ## Chci informovat a především donutit k přemýšlení širší skupinu, hlavně mladých, lidí, aby se vnesly do vědomí výhody a zážitky levného cestování, díky kterému se dá také poznat svět (a často mnohem víc než za hrůzu peněz).
 
 Jezdit po světě levně by chtěl každý, ale ten skutečný low cost není pro každého. Každý z nás má totiž své vlastní hranice pohodlí a představy o dobrodružství posunuté trochu jinam. Low cost znamená vzdát se mnoha věcí, včetně více a často i méně luxusního ubytování a stravování. Pokud ale chcete cestovat bez pozlátek a doopravdy je pro vás levné cestování určitě tou správnou cestou. Bohaté zážitky jsou při něm totiž zaručeny a častokrát jsou mnohem lepší a nezapomenutelnější než zážitky z cestování za mnoho peněz s cestovní agenturou, která Vám nikdy neukáže, kde se dělá ten nejlepší falafel nebo nejhezčí vyhlídku na město.
