@@ -20,4 +20,3 @@ Těmto aspektům ,a ještě mnoha dalším, bych se chtěla v mém semestrální
 
 Zdroje: https://www.huskycz.cz/jak-na-low-cost-batuzkarske-cesty#modal-leaving http://ioutdoor.cz/uzitecne/low-cost-cestovani-opravdu-to-jde/ https://www.cestovanibezhranic.cz/lowcost-cestovani/
 
-
